@@ -1,0 +1,45 @@
+const data = {
+  products: [
+    {
+      name: 'Original Ensaymada',
+      slug: 'original-ensaymada',
+      category: 'ensaymada',
+      image: '/images/original-ensaymadas.jpg',
+      price: 3.0,
+      rating: 4.5,
+      numReviews: 10,
+      description: 'Original Ensaymada',
+    },
+    {
+      name: 'Ube Ensaymada',
+      slug: 'ube-ensaymada',
+      category: 'ensaymada',
+      image: '/images/ube-ensaymadas.jpeg',
+      price: 3.5,
+      rating: 4.5,
+      numReviews: 10,
+      description: 'Ube Ensaymada',
+    },
+    {
+      name: 'Cassava',
+      slug: 'cassava',
+      category: 'cassava',
+      image: '/images/cassava.jpg',
+      price: 10.0,
+      rating: 4.5,
+      numReviews: 10,
+      description: 'Cassava Cake',
+    },
+    {
+      name: 'Ube Halaya',
+      slug: 'ube-halaya',
+      category: 'halaya',
+      image: '/images/ube-halaya.jpg',
+      price: 8.0,
+      rating: 4.5,
+      numReviews: 10,
+      description: 'Ube Halaya',
+    },
+  ],
+};
+export default data;
